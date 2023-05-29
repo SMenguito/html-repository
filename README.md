@@ -1,2 +1,2 @@
-# html-repositroy
+# html-repository
 Silvester Menguito_Web Development
